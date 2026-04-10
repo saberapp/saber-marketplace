@@ -16,7 +16,7 @@
         "url": "https://github.com/saberapp/arsenal.git"
       },
       "description": "Saber Arsenal \u2014 GTM and RevOps skills for Claude Code, powered by the Saber CLI",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "strict": true
     }
   ]
